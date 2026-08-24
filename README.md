@@ -1,46 +1,47 @@
-# 📚 LeetCode Solutions
+<div align="center">
 
-My LeetCode problem solutions, automatically synced from **[atharv_2285](https://leetcode.com/u/atharv_2285/)** using [LeetCode Sync](https://github.com/joshcai/leetcode-sync).
+# LeetCode Solutions
 
-[![LeetCode Sync](https://github.com/atharv-2285/leetcode/actions/workflows/leetcode-sync.yml/badge.svg)](https://github.com/atharv-2285/leetcode/actions/workflows/leetcode-sync.yml)
-[![Profile](https://img.shields.io/badge/LeetCode-Profile-black?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/atharv_2285/)
+My LeetCode problem solutions, automatically synced from [atharv_2285](https://leetcode.com/u/atharv_2285/).
 
----
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-1a1a1a?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/atharv_2285/)
 
-## 📊 Progress
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/atharv_2285&color=5865F2&logo=leetcode&logoColor=white" alt="Total Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/atharv_2285&color=00b8a3" alt="Easy Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/atharv_2285&color=ffc01e" alt="Medium Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/atharv_2285&color=ff375f" alt="Hard Solved"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Acceptance%20Rate&query=acceptanceRate&url=https://leetcode-stats-api.herokuapp.com/atharv_2285&color=blueviolet&suffix=%25" alt="Acceptance Rate"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Ranking&query=ranking&url=https://leetcode-stats-api.herokuapp.com/atharv_2285&color=orange" alt="Ranking"/>
-</p>
+### Overview
 
-### Full breakdown & activity
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Total%20Solved&query=%24.data.totalSolved&url=https://leetcode-stats.tashif.codes/atharv_2285&color=5865F2" alt="Total Solved"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Easy&query=%24.data.byDifficulty.easy&url=https://leetcode-stats.tashif.codes/atharv_2285/stats&color=2CBB5D" alt="Easy Solved"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Medium&query=%24.data.byDifficulty.medium&url=https://leetcode-stats.tashif.codes/atharv_2285/stats&color=FFB800" alt="Medium Solved"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Hard&query=%24.data.byDifficulty.hard&url=https://leetcode-stats.tashif.codes/atharv_2285/stats&color=EF4743" alt="Hard Solved"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Acceptance&query=%24.data.acceptanceRate&url=https://leetcode-stats.tashif.codes/atharv_2285/stats&color=8A63D2&suffix=%25" alt="Acceptance Rate"/>
 
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=atharv_2285&theme=dark&border_radius=10&show_percentile=true)
+<br><br>
 
-<img src="https://leetcard.jacoblin.cool/atharv_2285?theme=dark&font=Karma&ext=activity" width="100%" alt="LeetCode Activity Calendar"/>
+<img src="https://leetcode-stats.tashif.codes/atharv_2285/stats/svg?theme=dark" alt="LeetCode Stats" width="500"/>
 
-> All badges above update live from my LeetCode profile — no manual editing needed.
+<br>
 
----
+<img src="https://leetcard.jacoblin.cool/atharv_2285?theme=dark&font=Karma&ext=activity" alt="LeetCode Activity" width="500"/>
 
-## 🗂️ How this repo works
+</div>
 
-- ✅ Solutions are pushed here automatically whenever a submission is **Accepted** on LeetCode.
-- 🔄 Sync runs every 6 hours via [GitHub Actions](https://github.com/atharv-2285/leetcode/actions), and can be triggered manually from the **Actions** tab.
-- 📁 Files are organized under [`solutions/`](./solutions), one folder per problem.
+## How this repo works
 
-## 🛠️ Tech
+- Solutions are pushed here automatically whenever a submission is Accepted on LeetCode.
+- Sync runs every 6 hours via [GitHub Actions](https://github.com/atharv-2285/leetcode/actions), and can also be triggered manually from the Actions tab.
+- Files are organized under [`solutions/`](./solutions), one folder per problem.
+
+## Tech
 
 Solutions are written in whichever language I solved the problem in on LeetCode — check each file for its language.
 
----
+<br>
 
-<p align="center">⭐ Feel free to star this repo if you find it useful for tracking your own LeetCode progress!</p>
+<div align="center">
+
+Feel free to star this repo if you find it useful for tracking your own LeetCode progress.
+
+</div>
