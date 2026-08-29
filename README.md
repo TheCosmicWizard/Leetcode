@@ -10,7 +10,7 @@ My LeetCode problem solutions, automatically synced from [atharv_2285](https://l
 
 <div align="center">
 
-### Overview
+## Overview
 
 <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Total%20Solved&query=%24.data.totalSolved&url=https://leetcode-stats.tashif.codes/atharv_2285&color=5865F2" alt="Total Solved"/>
 <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Easy&query=%24.data.byDifficulty.easy&url=https://leetcode-stats.tashif.codes/atharv_2285/stats&color=2CBB5D" alt="Easy Solved"/>
@@ -39,7 +39,7 @@ My LeetCode problem solutions, automatically synced from [atharv_2285](https://l
 Solutions are written in whichever language I solved the problem in on LeetCode — check each file for its language.
 
 <br>
-
+<br>
 <div align="center">
 
 Feel free to star this repo if you find it useful for tracking your own LeetCode progress.
